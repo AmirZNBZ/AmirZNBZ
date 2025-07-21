@@ -3,8 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirznbz" alt="amirznbz" /></a> </p>
 
-- 🔭 I’m currently working on [sensai](cryptopective)
-
+- 🔭 I’m currently working on [sensai]
 - 🌱 I’m currently learning **Threejs & Gsap Animations**
 
 - 👨‍💻 All of my projects are available at [github](github)
@@ -24,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirznbz&show_icons=true&locale=en" alt="amirznbz" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=amirznbz&](https://avatars.githubusercontent.com/u/107479034?s=400&u=db96774b073d40411f6521731129bc5a7623c4b7&v=4)" alt="amirznbz" /></p>
+<p><img align="center" src="" alt="amirznbz" /></p>
