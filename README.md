@@ -1,16 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
-<h3 align="center">A passionate Front-End Developer from Iran</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirznbz" alt="amirznbz" /></a> </p>
-
-- 🔭 I’m currently working on [sensai]
-- 🌱 I’m currently learning **Threejs & Gsap Animations**
-
-- 👨‍💻 All of my projects are available at [github](github)
-
-- 💬 Ask me about **JS, TS, NextJs, React**
-
-- 📫 How to reach me **.**
+<h3 align="center"> Front-End Developer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
